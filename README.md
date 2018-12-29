@@ -4,6 +4,7 @@
 ## CoderByte Challenge Solution
 
 * [First Reverse](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_reverse.ipynb)
+* [First Factorial](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_factorial.ipynb)
 
 
 ## Project Euler Challenge Solution
