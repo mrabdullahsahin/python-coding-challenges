@@ -1,5 +1,5 @@
 # pythonexamples
-> Last Updated: 27.12.2018
+> Last Updated: 29.12.2018
 
 ## CoderByte Challenge Solution
 
