@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mrabdullahsahin/python-coding-challenges.svg?branch=master)](https://travis-ci.org/mrabdullahsahin/python-coding-challenges)
+
 # pythonexamples
 > Last Updated: 30.12.2018
 
