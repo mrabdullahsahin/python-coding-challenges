@@ -1,3 +1,6 @@
+dist: trusty
+sudo: false
+
 language: python
 
 python:
@@ -14,3 +17,6 @@ before_script:
 # command to run tests
 script:
   - pytest
+
+before_install:
+  - if [[ $TOXENV = py35 && -f ~/virtualenv/python3.5/bin/activate ]]; then source ~/virtualenv/python3.5/bin/activate;
