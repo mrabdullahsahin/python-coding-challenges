@@ -4,9 +4,18 @@ python:
   - "3.6"
   # PyPy versions
   - "pypy3.5"
+
 # command to install dependencies
-install:
+before_script:
+  - easy_install distribute
   - pip install -r requirements.txt
+
+install:
+  - pip install --user -r requirements.txt
   - pip install .
 # command to run tests
-script: pytest
+script:
+  - pytest
+
+virtualenv:
+  system_site_packages: true
