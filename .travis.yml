@@ -8,6 +8,9 @@ python:
   
 virtualenv:
   system_site_packages: true
+  
+before_install:
+  - source ~/virtualenv/python3.6/bin/activate
 
 # command to install dependencies
 before_script:
@@ -17,6 +20,3 @@ before_script:
 # command to run tests
 script:
   - pytest
-
-before_install:
-  - if [[ $TOXENV = py35 && -f ~/virtualenv/python3.5/bin/activate ]]; then source ~/virtualenv/python3.5/bin/activate;
