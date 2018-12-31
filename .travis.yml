@@ -1,6 +1,4 @@
-language: python
 sudo: false
 language: python
 python: 3.6
-install: pip install -e .
-script: python -m unittest discover
+install: pip install -e
