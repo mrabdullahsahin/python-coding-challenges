@@ -1,22 +1,4 @@
-dist: trusty
-sudo: false
-
 language: python
 
 python:
   - 3.6
-  
-virtualenv:
-  system_site_packages: true
-  
-before_install:
-  - source ~/virtualenv/python3.6/bin/activate
-
-# command to install dependencies
-before_script:
-  - easy_install distribute
-  - pip install --user -r requirements.txt
-
-# command to run tests
-script:
-  - pytest
