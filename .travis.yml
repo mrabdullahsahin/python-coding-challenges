@@ -1,6 +1,16 @@
 sudo: false
 language: python
 python: 3.6
+# command to install dependencies
+install:
+  - pip install -r requirements.txt
+  - pip install .
+  # command to run tests
+script:
+  - pytest
 deploy:
+  user: mrabdullahsahin
   password:
     secure: FcHmSR6JnEtq3Ll4F7+VHeEWQIQ53YdZPMlE2Ysc76qpH2IwbgJPLnGXh6Qwk17hhxm1rLgnuIU6kKPmYlcfVtKvKWDKqu1Cj8uJsukpszDO9nfz6l+yxyqwtTUbhYbJQQcgIoRuBuaCTiHMHqxCFt0fX+8/w1b8mCmbM7z3Ym9Smzbdb2WU62o65zWBVh5thnUT/YFhCLuUdDETUydRDo3j3spO48AqFwn0ogAHoOdAFAtj2wB03r4IMdYFQmSA3ZXlp9pSsgts5rXsO+T7VPEgmOfMi5/PCNOv4WlUV/L5fNq8Bi4W900xfp77dNGIvh4ENMQyN1Xk3d3UXkARfvBThNHDah9rhy7Wnj+021g8/YKPm9UXRf4lrJvqPTGrq9AQqjVRMf3HaK36I4urPZjMO4E2TxX31j/U7Q012Lv+SpENryEvyUEGYMBqvzJj3Kri485vVuMpuuWdpSiKy0gwkiVnF+yOT45xOPKSFqchcTeLcRguzDGEbwf8GrOBRNVXB8BYdv3FtMsNf73OjlL8J5oFxtcCuYh+bNi4qJKyTO9fIYyZIjzaMyn9T4aYngo9XeS9j6bp+L+LvKQ2EvIcbmnOx4bQCGuux786i9q7dFnfor5VE7sFjzwkO3zDab0OKf4NIR4PzT82h6MJGpyCb54YBrGCKHzzvQnv1Ik=
+  on:
+    tags: true
