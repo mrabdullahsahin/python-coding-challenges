@@ -1,13 +1,15 @@
-[![Build Status](https://travis-ci.org/mrabdullahsahin/python-coding-challenges.svg?branch=master)](https://travis-ci.org/mrabdullahsahin/python-coding-challenges)
+[![Build Status](https://travis-ci.org/mrabdullahsahin/python-coding-challenges.svg?branch=master)](https://travis-ci.org/mrabdullahsahin/python-coding-challenges) ![](https://img.shields.io/github/license/mrabdullahsahin/python-coding-challenges.svg) ![](https://img.shields.io/github/issues/mrabdullahsahin/python-coding-challenges.svg)
 
-# pythonexamples
-> Last Updated: 30.12.2018
+
+# Python Coding Challenges
+> Last Updated: 01.01.2019
 
 ## CoderByte Challenge Solution
 
 * [First Reverse](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_reverse.ipynb)
 * [First Factorial](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_factorial.ipynb)
 * [Letter Changes](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/letter_changes.ipynb)
+* [Longest Word](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/longest_word.ipynb)
 
 
 ## Project Euler Challenge Solution
