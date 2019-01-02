@@ -2,7 +2,7 @@
 
 
 # Python Coding Challenges
-> Last Updated: 01.01.2019
+> Last Updated: 02.01.2019
 
 ## CoderByte Challenge Solution
 
@@ -10,6 +10,8 @@
 * [First Factorial](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_factorial.ipynb)
 * [Letter Changes](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/letter_changes.ipynb)
 * [Longest Word](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/longest_word.ipynb)
+* [Longest Word)[https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/longest_word.ipynb]
+* [Simple Adding](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/simple_adding.ipynb)
 
 
 ## Project Euler Challenge Solution
