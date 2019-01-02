@@ -10,7 +10,7 @@
 * [First Factorial](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_factorial.ipynb)
 * [Letter Changes](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/letter_changes.ipynb)
 * [Longest Word](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/longest_word.ipynb)
-* [Longest Word)[https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/longest_word.ipynb]
+* [Letter Capitalize](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/letter_capitalize.ipynb)
 * [Simple Adding](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/simple_adding.ipynb)
 
 
