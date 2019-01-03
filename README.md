@@ -2,19 +2,29 @@
 
 
 # Python Coding Challenges
-> Last Updated: 02.01.2019
+> Last Updated: 03.01.2019
 
 ## CoderByte Challenge Solution
 
-* [First Reverse](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_reverse.ipynb)
-* [First Factorial](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_factorial.ipynb)
-* [Letter Changes](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/letter_changes.ipynb)
-* [Longest Word](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/longest_word.ipynb)
-* [Letter Capitalize](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/letter_capitalize.ipynb)
-* [Simple Adding](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/simple_adding.ipynb)
+| Challenge Name       | Difficulty     | Solution     |
+| :-------------       | :----------:   | -----------: |
+| First Reverse        | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_reverse.ipynb) |
+| First Factorial      | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/first_factorial.ipynb) |
+| Letter Changes       | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/letter_changes.ipynb) |
+| Longest Word         | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/longest_word.ipynb) |
+| Letter Capitalize    | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/letter_capitalize.ipynb) |
+| Simple Adding        | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/simple_adding.ipynb) |
+
+## LeetCode Challenge Solution
+
+| Challenge Name       | Difficulty     | Solution     |
+| :-------------       | :----------:   | -----------: |
+| Two Sum              | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/leetcode/two_sum.ipynb) |
 
 
 ## Project Euler Challenge Solution
 
-* [Problem 1](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/project_euler/problem_1.ipynb)
-* [Problem 2](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/project_euler/problem_2.ipynb)
+| Challenge Name       | Solution     |
+| :-------------       | -----------: |
+| Problem 1            | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/project_euler/problem_1.ipynb) |
+| Problem 2            | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/project_euler/problem_2.ipynb) |
