@@ -2,7 +2,7 @@
 
 
 # Python Coding Challenges
-> Last Updated: 03.01.2019
+> Last Updated: 05.01.2019
 
 ## CoderByte Challenge Solution
 
@@ -20,6 +20,7 @@
 | Challenge Name       | Difficulty     | Solution     |
 | :-------------       | :----------:   | -----------: |
 | Two Sum              | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/leetcode/two_sum.ipynb) |
+| Reverse Integer      | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/leetcode/reverse_integer.ipynb) |
 
 
 ## Project Euler Challenge Solution
