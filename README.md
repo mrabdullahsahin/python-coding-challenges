@@ -2,7 +2,7 @@
 
 
 # Python Coding Challenges
-> Last Updated: 08.01.2019
+> Last Updated: 10.01.2019
 
 ## CoderByte Challenge Solution
 
@@ -15,6 +15,7 @@
 | Letter Capitalize    | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/letter_capitalize.ipynb) |
 | Simple Adding        | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/simple_adding.ipynb) |
 | Check Nums           | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/check_nums.ipynb) |
+| Time Convert         | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/time_convert.ipynb) |
 
 ## LeetCode Challenge Solution
 
