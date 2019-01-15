@@ -2,7 +2,7 @@
 
 
 # Python Coding Challenges
-> Last Updated: 12.01.2019
+> Last Updated: 15.01.2019
 
 ## CoderByte Challenge Solution
 
@@ -25,6 +25,7 @@
 | Two Sum              | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/leetcode/two_sum.ipynb) |
 | Reverse Integer      | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/leetcode/reverse_integer.ipynb) |
 | Palindrome Number    | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/leetcode/palindrome_number.ipynb) |
+| Longest Common Prefix| Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/leetcode/longest_common_prefix.ipynb) |
 
 
 ## Project Euler Challenge Solution
