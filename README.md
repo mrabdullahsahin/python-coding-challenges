@@ -2,7 +2,7 @@
 
 
 # Python Coding Challenges
-> Last Updated: 10.01.2019
+> Last Updated: 12.01.2019
 
 ## CoderByte Challenge Solution
 
@@ -16,6 +16,7 @@
 | Simple Adding        | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/simple_adding.ipynb) |
 | Check Nums           | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/check_nums.ipynb) |
 | Time Convert         | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/time_convert.ipynb) |
+| Alphabet Soup        | Easy           | [Solution](https://github.com/mrabdullahsahin/python-coding-challenges/blob/master/coderbyte/alphabet_soup.ipynb) |
 
 ## LeetCode Challenge Solution
 
